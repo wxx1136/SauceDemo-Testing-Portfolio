@@ -1,8 +1,7 @@
 # SauceDemo-Testing-Portfolio
 A comprehensive testing portfolio for SauceDemo e-commerce platform, including test plans, test cases, bug reports, and summary reports.
- SauceDemo 电商平台测试作品集
 
-作者： 汪鑫雪 | 求职意向： 软件测试工程师（应届生）
+作者： 汪鑫雪
 
 本仓库展示了我为 SauceDemo 电商平台完成的完整测试流程，包括功能测试和Web UI自动化测试，体现了我在测试计划、设计、执行、报告以及自动化脚本开发方面的综合能力。
 
